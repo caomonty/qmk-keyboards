@@ -1,0 +1,8 @@
+
+// #define ENCODER_ENABLE
+#pragma once
+
+#define AUTO_SHIFT_TIMEOUT 155
+#define NO_AUTO_SHIFT_SPECIAL
+#define TAPPING_TERM 200
+#define PERMISSIVE_HOLD
